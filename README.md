@@ -1,4 +1,4 @@
-# Crystal Collector - Under Construction
+# Crystal Collector
 
 ## Getting Started
 
