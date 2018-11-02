@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Col } from 'react-bootstrap';
 
-
 class Crystals extends Component {
     constructor(props) {
         super(props);
