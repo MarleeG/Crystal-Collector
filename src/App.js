@@ -110,7 +110,6 @@ class App extends Component {
             <p>The value of each crystal is hidden from until you click on it.</p>
             <p>Each time when the game starts, the game will change the values of each crystal.</p>
           </Modal.Body>
-
           <Modal.Footer>
             <Button onClick={this.handleClose}>Close</Button>
           </Modal.Footer>
