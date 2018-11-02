@@ -6,18 +6,11 @@ class Header extends Component {
     render() {
         return (
             <div>
-                <Jumbotron>
-                    <h1 className='header text-center'>Crystal Colletor</h1>
+                <Jumbotron className='jumbotron'>
+                    <h1 className='header text-center'>Crystal Collector</h1>
                 </Jumbotron>
-
             </div>
         )
-    }
-}
-
-const styles = {
-    text: {
-        // fontFamily: 'Satisfy', cursive; 
     }
 }
 

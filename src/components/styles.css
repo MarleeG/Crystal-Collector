@@ -1,4 +1,8 @@
 .header{
     font-family: 'Satisfy', cursive; 
-    font-size: 100px
+}
+
+.jumbotron{
+    background-image: linear-gradient(to bottom right, #FFC300, #FF5733,#C70039, #900C3F);
+    border-bottom: 0.5px solid #581845;
 }

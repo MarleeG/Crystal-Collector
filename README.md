@@ -25,8 +25,5 @@ Each time when the game starts, the game will change the values of each crystal.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-
-
-
 ## Deployed App
 * Coming soon

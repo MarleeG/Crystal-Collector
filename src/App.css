@@ -1,0 +1,18 @@
+.body{
+    width: 100%;
+    height: 700px
+}
+
+.numbers{
+    width: 70%;
+    height: 75px;
+    margin: auto;
+    border: 5px outset;
+    border-radius: 20px;
+    z-index: 1000;
+    margin-bottom: 50px;
+}
+
+.directions-title{
+    font-family: 'Fredoka One', cursive;
+}
